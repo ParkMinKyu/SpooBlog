@@ -1,0 +1,24 @@
+{
+  "name": "spoon",
+  "version": "0.0.1",
+  "homepage": "https://github.com/SpoonCode/SpooBlog",
+  "authors": [
+    "woniper <leekw3747@gmail.com>"
+  ],
+  "description": "blog",
+  "main": "bower",
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
